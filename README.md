@@ -12,7 +12,7 @@ Online Retail II isimli veri seti İngiltere merkezli online bir satış mağaza
 
 Veri setine erişebilmek için gerekli link: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
-Bu proje için yazmış olduğum Medium yazıma erişmek için: https://medium.com/@krglnahmetcan/rfm-analizi-ile-m%C3%BC%C5%9Fteri-segmentasyonu-b3c7233b4243
+Bu proje için yazmış olduğum Medium yazıma erişebilmek için: https://medium.com/@krglnahmetcan/rfm-analizi-ile-m%C3%BC%C5%9Fteri-segmentasyonu-b3c7233b4243
 
 
 
