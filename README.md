@@ -8,7 +8,11 @@ Bir e-ticaret şirketi müşterilerini segmentlere ayırıp bu segmentlere göre
 
 # Veri Seti Hakkında
 
-Online Retail II isimli veri seti İngiltere merkezli online bir satış mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını içeriyor. Bu şirket hediyelik eşya satıyor. Promosyon ürünleri gibi düşünebilir. Müşterilerinin çoğu da toptancı.
+Online Retail II isimli veri seti İngiltere merkezli online bir satış mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını içeriyor. Bu şirket hediyelik eşya satıyor. Promosyon ürünleri gibi düşünebilir. Müşterilerinin çoğu da toptancı. 
+
+Veri setine erişebilmek için gerekli link: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
+Bu proje için yazmış olduğum Medium yazıma erişmek için: https://medium.com/@krglnahmetcan/rfm-analizi-ile-m%C3%BC%C5%9Fteri-segmentasyonu-b3c7233b4243
 
 
 
